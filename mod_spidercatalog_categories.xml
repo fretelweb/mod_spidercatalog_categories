@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.2.0" client="site" method="upgrade">
+   <name>SpiderCatalog - Mod Categories!</name>
+   <author>Ronny Fretel</author>
+   <version>1.0.0</version>
+   <description>A simple spidercatalgo module to display categories as list.</description>
+   <files>
+      <filename>mod_spidercatalog_categories.xml</filename>
+      <filename module="mod_spidercatalgo_categories">mod_spidercatalog_categories.php</filename>
+      <filename>index.html</filename>
+      <filename>helper.php</filename>
+      <filename>tmpl/default.php</filename>
+      <filename>tmpl/index.html</filename>
+   </files>
+   <config>
+   </config>
+</extension>
