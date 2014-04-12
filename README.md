@@ -1,7 +1,7 @@
 mod_spidercatalog_categories
 ============================
 
-Module for spdier catalog to display categories
+Module for spidier catalog to display categories
 
 TODO:
 
